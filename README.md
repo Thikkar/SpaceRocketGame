@@ -1,5 +1,5 @@
 # SpaceRocketGame
-A gamed based on Galaga, completed as a final project for CS211 at Northwestern University
+A game based on Galaga, completed as a final project for CS211 at Northwestern University
 
 Objective: Survive as long as possible. Shoot incoming asteroids, monsters, and enemy spaceships to gain points. Acquire health boosts to regenerate lost health.
 
