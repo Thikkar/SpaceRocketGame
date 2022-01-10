@@ -1,9 +1,12 @@
 # SpaceRocketGame
-A game based on Galaga, completed as a final project for CS211 at Northwestern University
+A game based on the age-old game Galaga, completed as the final project for CS211 at Northwestern University
 
-Objective: Survive as long as possible. Shoot incoming asteroids, monsters, and enemy spaceships to gain points. Acquire health boosts to regenerate lost health.
+## Objective
 
-Rules: 
+Survive as long as possible. Shoot incoming asteroids, monsters, and enemy spaceships to gain points. Acquire health boosts to regenerate lost health.
+
+## Rules
+
   1) W,A,S,D to move. Space to shoot.
   2) Colliding with an enemy spaceship results in an instant death.
   3) Colliding with asteroid or monster, or getting shot by an enemy spaceship deals 10 HP of damage.
