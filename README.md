@@ -14,3 +14,7 @@ Rules:
      Monsters and enemy spaceships that go past the edge of our window disappear and do not reappear on the opposite side of the screen.
      Asteroids will reflect vertically/horizontally when hitting the edge.
   7) White circles = Asteroids; Squares = monsters (different color = different velocity)
+
+## Demo
+
+https://user-images.githubusercontent.com/53710555/148723005-3d48d23e-4114-49ca-8d7a-48d59784610f.mp4
